@@ -10,8 +10,8 @@ init -989 python:
     if store.mas_submod_utils.isSubmodInstalled("Submod Updater Plugin"):
         store.sup_utils.SubmodUpdater(
             submod="Monika's example submod",
-            user_name="PencilMario",
-            repository_name="MonikaExampleSubmod",
+            user_name="Gongcai",
+            repository_name="MonikaSunmod",
             update_dir="",
             attachment_id=None
         )
